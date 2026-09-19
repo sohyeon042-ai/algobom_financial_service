@@ -12,7 +12,7 @@
 | 프로젝트  | 알고봄 — 보험 청구가 망설여질 때, 내 결정을 돕는 금융서비스 제안                                                                                                                   |
 | 진행 형태 | 2인 팀 프로젝트                                                                                                                                                |
 | 핵심 작업 | 소비자 설문 · 온라인 질문 수집 및 텍스트 분석 · 서비스 기획 · 프로토타입                                                                                                             |
-| 산출물   | [최종 발표자료](./presentation/algobom_final.pdf) · [데이터 수집 코드](./notebooks/01_data_collection.ipynb) · [텍스트 분석 코드](./notebooks/02_hybrid_text_analysis.ipynb) |
+| 산출물   | [최종 발표자료](./presentation/presentation_algobom_final.pdf) · [데이터 수집 코드](./notebooks/01_data_collection.ipynb) · [텍스트 분석 코드](./notebooks/02_hybrid_text_analysis.ipynb) |
 
 ---
 
